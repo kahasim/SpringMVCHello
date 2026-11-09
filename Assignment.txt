@@ -1,0 +1,21 @@
+TASK A.
+
+1. Create a Login FORM in HTML with Username, Password fields and a submit button.
+2. Submit it to a Spring MVC action which will display:
+	- Welcome page if the credentials are correct!
+	- Error page if credentials are wrong!
+
+TASK B.
+
+Handle Form fields validation on server side
+
+1. Check for empty field and length
+2. Display appropriate validation error message on LOGIN form
+
+TASK C.
+
+Use Spring MVC Resource bundle for customizing validation error messages
+
+1. Create a .proprties file with all the validaton messages and load them appropriately.
+
+ 
